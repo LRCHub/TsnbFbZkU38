@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MAGICAL",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-02-08T17:02:47.627719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magical - US Version",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/01_Magical_-_US_Version_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magical Hurricane",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/02_Magical_Hurricane_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A MAGICAL PLACE",
+      "artist": "Martika",
+      "has_synced": false,
+      "path": "select/03_A_MAGICAL_PLACE_Martika.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Magical Butterfly Net",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/04_The_Magical_Butterfly_Net_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magical Love",
+      "artist": "Kate Ryan",
+      "has_synced": false,
+      "path": "select/05_Magical_Love_Kate_Ryan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magical Love Affair",
+      "artist": "Magic Affair",
+      "has_synced": false,
+      "path": "select/06_Magical_Love_Affair_Magic_Affair.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magical Mystery Tour",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Magical_Mystery_Tour_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Magical Mystery Tour",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Magical_Mystery_Tour_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magical Boy",
+      "artist": "DJ Koze feat. Matthew Dear",
+      "has_synced": false,
+      "path": "select/09_Magical_Boy_DJ_Koze_feat._Matthew_Dear.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Magical Boy (feat. Matthew Dear)",
+      "artist": "DJ Koze",
+      "has_synced": false,
+      "path": "select/10_Magical_Boy_(feat._Matthew_Dear)_DJ_Koze.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magical Lasso",
+      "artist": "Andrew Lloyd Webber feat. Simon Lee",
+      "has_synced": false,
+      "path": "select/11_Magical_Lasso_Andrew_Lloyd_Webber_feat._Simon_Lee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magical Mystery Tour",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/12_Magical_Mystery_Tour_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Magical Fix",
+      "artist": "Tristania",
+      "has_synced": true,
+      "path": "select/13_Magical_Fix_Tristania.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Magical Spell",
+      "artist": "Masters of Reality",
+      "has_synced": false,
+      "path": "select/14_Magical_Spell_Masters_of_Reality.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magical Spring - 2001 Remaster",
+      "artist": "Ride",
+      "has_synced": false,
+      "path": "select/15_Magical_Spring_-_2001_Remaster_Ride.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magical Spring",
+      "artist": "Ride",
+      "has_synced": false,
+      "path": "select/16_Magical_Spring_Ride.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAGICAL",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_MAGICAL_Ayumu_Imazu.txt"
+    }
+  ]
+}
